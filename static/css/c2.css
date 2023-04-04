@@ -1,0 +1,23 @@
+a{
+    background-color:rebeccapurple;
+    color:navajowhite;
+    display:inline;
+    margin:80px;
+    margin-bottom:10px;
+    font-size:30px;
+    text-align:center;
+    border:none;
+    text-decoration:none;
+
+    }
+    img{
+        padding:20px;
+        margin:10px;
+        border:2px;
+        width:300px;
+        height:200px;
+        
+    }
+    h1{
+        text-align: center;
+    }
